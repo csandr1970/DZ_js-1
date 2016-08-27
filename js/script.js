@@ -17,5 +17,3 @@ if (power < 0 || power - Math.ceil(power)!=0) {
 		alert(pow(base, power));
 		console.log( pow(base, power) );
 };
-/*if (power=0) result = 1;
-*/
